@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm a Frontend Developer passionate about building modern, user-friendly web applications. I work mainly with JavaScript, React, and Next.js. Always learning, always coding.
+👋 Hi, I'm a Frontend Developer passionate about building modern, user-friendly web applications. I work mainly with JavaScript, TypeScript, React, and Next.js. Always learning, always coding.
 
 
 ## 🌐 Socials:
